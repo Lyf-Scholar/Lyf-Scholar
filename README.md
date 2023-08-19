@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lyf-Scholar
+- 👋 Hi, I’m Busiswa Matomela
 - 👀 I’m interested in all things technology
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on ...
